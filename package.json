@@ -1,5 +1,6 @@
 {
   "name": "sky-interview-test",
+  "homepage": "http://asudbury.github.io/sky-interview-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
