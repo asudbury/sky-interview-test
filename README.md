@@ -1,4 +1,4 @@
-# NowTV React Interview
+# Adrian's NowTV React Interview
 
 ![NowTV](./logo.png)
 
