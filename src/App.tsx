@@ -1,11 +1,7 @@
 import Messages from "./components/messages";
 
 function App() {
-  return (
-    <div>
-      <Messages />
-    </div>
-  );
+  return <Messages />;
 }
 
 export default App;
