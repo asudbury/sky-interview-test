@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/sky-interview-test/static/js/main.b3e1807f.js",
+    "main.js": "/sky-interview-test/static/js/main.fd27d355.js",
     "index.html": "/sky-interview-test/index.html",
-    "main.b3e1807f.js.map": "/sky-interview-test/static/js/main.b3e1807f.js.map"
+    "main.fd27d355.js.map": "/sky-interview-test/static/js/main.fd27d355.js.map"
   },
   "entrypoints": [
-    "static/js/main.b3e1807f.js"
+    "static/js/main.fd27d355.js"
   ]
 }
